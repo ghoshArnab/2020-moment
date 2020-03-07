@@ -1,0 +1,22 @@
+{
+  "name": "2020-moment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "date-fns": "2.10.0",
+    "date-fns-tz": "1.0.10",
+    "dayjs": "1.8.21",
+    "luxon": "1.22.0",
+    "moment-timezone": "0.5.28"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
