@@ -10,7 +10,7 @@
   "dependencies": {
     "date-fns": "2.16.1",
     "date-fns-tz": "1.0.10",
-    "dayjs": "1.8.34",
+    "dayjs": "1.8.36",
     "luxon": "1.25.0",
     "moment-timezone": "0.5.31"
   },
