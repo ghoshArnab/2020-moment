@@ -15,7 +15,7 @@
     "moment-timezone": "0.5.33"
   },
   "devDependencies": {
-    "@babel/core": "7.13.16",
+    "@babel/core": "7.14.3",
     "parcel-bundler": "^1.6.1"
   },
   "keywords": []
